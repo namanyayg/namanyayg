@@ -1,3 +1,5 @@
+# Hi, I'm Namanyay Goel
+
 I discovered my life's joy of creating by developing software and building products at the age of 13. In high school, I loved coding until midnight to make web products for myself and my clients. I dropped out of University of Washington to dedicate myself to my passion.
 
 I had started freelance web development in 9th grade, I got my first (and last) job at MakeUseOf as their web developer at the age of 14. I worked there for 1.5 years and continued solo freelancing for many years after that.
