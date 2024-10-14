@@ -8,7 +8,7 @@ I had started freelance web development in 9th grade, I got my first job at Make
 
 To take things to the next level, I co-founded my agency Dyeus at the age of 18 with my best friends. We grew to a team of 20+ and delivered web and mobile apps to many international clients.
 
-At the age of 24, I took a sabbatical and decided that I had worked enough for clients. Backed by the years of experience building production-grade software for millions of happy users, I started making working on my own prducts.
+At the age of 24, I took a sabbatical and decided that I had worked enough for clients. Backed by the years of experience building production-grade software for millions of happy users, I started working on my own prducts.
 
 Since then, I've been write software that makes AI do the boring stuff, so humans can focus on what truly matters.
 
