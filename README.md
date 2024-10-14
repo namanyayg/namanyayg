@@ -12,8 +12,8 @@ At the age of 24, I took a sabbatical and decided that I had worked enough for c
 
 Since then, I've been write software that makes AI do the boring stuff, so humans can focus on what truly matters.
 
-- [Website](https://nmn.gl/)
-- [LinkedIn](https://linkedin.com/in/namanyayg)
-- [Twitter](https://x.com/namanyayg)
-- [Blog](https://nmn.gl/blog)
-- [Lab](https://nmn.gl/lab)
+- 🌍 [Website](https://nmn.gl/)
+- 📃 [LinkedIn](https://linkedin.com/in/namanyayg)
+- 🐦 [Twitter](https://x.com/namanyayg)
+- ✍️ [Blog](https://nmn.gl/blog)
+- 🧪 [Lab](https://nmn.gl/lab)
