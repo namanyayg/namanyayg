@@ -10,8 +10,6 @@ To take things to the next level, I co-founded my agency Dyeus at the age of 18 
 
 At the age of 24, I took a sabbatical and decided that I had worked enough for clients. Backed by the years of experience building production-grade software for millions of happy users, I started working on my own prducts.
 
-Since then, I've been writing software that makes AI do the boring stuff, so humans can focus on what truly matters.
-
 - 🌍 [Website](https://nmn.gl/)
 - 📃 [LinkedIn](https://linkedin.com/in/namanyayg)
 - 🐦 [Twitter](https://x.com/namanyayg)
