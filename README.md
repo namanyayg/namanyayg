@@ -1,14 +1,10 @@
 # Hi, I'm Namanyay⚡
 
-I discovered my life's joy of creating & programming at the age of 13. 
+I fell in love with programming when I was 13 and started getting paid for it when I was 14. Built a dev agency & ran it for 10 years.
 
-In high school, I loved coding until midnight to build web products for myself and my clients. 
+I write about dev and AI. I've had 4M+ views along with being covered in NYT, Futurism, Inc Magazine, and more: https://nmn.gl/blog
 
-I had started freelance web development in 9th grade, I got my first job at MakeUseOf as their web developer at the age of 14. I worked there for 1.5 years and continued solo freelancing for many years after that.
-
-To take things to the next level, I co-founded my agency Dyeus at the age of 18 with my best friends. We grew to a team of 20+ and delivered web and mobile apps to many international clients.
-
-At the age of 24, I took a sabbatical and decided that I had worked enough for clients. Backed by the years of experience building production-grade software for millions of happy users, I started working on my own prducts.
+My mission now is to help software dev teams ship faster with AI with https://gigamind.dev/
 
 - 🌍 [Website](https://nmn.gl/)
 - 📃 [LinkedIn](https://linkedin.com/in/namanyayg)
